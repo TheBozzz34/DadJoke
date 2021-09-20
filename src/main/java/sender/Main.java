@@ -9,10 +9,10 @@ import twitter4j.auth.AccessToken;
 
 public class Main {
 
-    static String consumerKeyStr = "HvAIEaygT9WyiaYCkWFRRXUCl";
-    static String consumerSecretStr = "4aIZIp1j4KD7Vtrg5p8VFKpkK1sg4P9NBbPuExMVWndxqgUo99";
-    static String accessTokenStr = "1439779035480043523-0p7JpsePNpsZ7N4E7ZJnLeYN9lXLm3";
-    static String accessTokenSecretStr = "wUYpgB163m84IhEdwuZ1rg1YUJz9fNLhaDH4KP6sK7lJR";
+    static String consumerKeyStr = "api key";
+    static String consumerSecretStr = "api secret";
+    static String accessTokenStr = "consumer key";
+    static String accessTokenSecretStr = "consumer secret";
 
     public static void main(String[] args) {
 
